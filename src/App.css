@@ -1,0 +1,16 @@
+.polotno-side-tabs-container{
+  background-color: red !important;
+  color: white;
+}
+
+.polotno-panel-container{
+  background-color: red !important;
+  color: white;
+}
+.polotno-panel-container .bp4-button-text{
+  color: white;
+
+}
+.polotno-panel-container svg{
+  color: white;
+}
